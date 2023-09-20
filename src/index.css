@@ -1,0 +1,13 @@
+.total_body {
+    text-align: center;
+}
+
+.assistants img {
+    width: 100px;
+}
+
+.assistants_parent {
+    display: flex;
+    justify-content: space-around;
+
+}
